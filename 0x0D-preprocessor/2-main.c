@@ -1,8 +1,3 @@
-/*
- * File: 2-main.c
- * Auth: Temitope Olamolu
- */
-
 #include <stdio.h>
 
 /**
