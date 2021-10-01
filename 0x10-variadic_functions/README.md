@@ -1,0 +1,5 @@
+# ALX SE PROJECT
+## VARIADIC FUNCTION
+Task 1 -
+Task 2 -
+Task 3 -
